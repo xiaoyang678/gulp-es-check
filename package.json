@@ -1,0 +1,23 @@
+{
+  "name": "gulp-es-check",
+  "version": "1.0.0",
+  "description": "Gulp plugin for check ecma version",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaoyang678/gulp-es-check.git"
+  },
+  "keywords": [
+    "gulp",
+    "ecma"
+  ],
+  "author": "jitui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaoyang678/gulp-es-check/issues"
+  },
+  "homepage": "https://github.com/xiaoyang678/gulp-es-check#readme"
+}
